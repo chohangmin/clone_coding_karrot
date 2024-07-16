@@ -1,3 +1,5 @@
+// https://blog.naver.com/PostView.naver?blogId=rock11201&logNo=222609032254&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+
 import 'package:beamer/beamer.dart';
 import 'package:clone_coding_karrot/router/locations.dart';
 import 'package:clone_coding_karrot/screens/auth_screen.dart';
