@@ -1,5 +1,5 @@
-import 'package:clone_coding_karrot/home_screen.dart';
-import 'package:clone_coding_karrot/splash_screen.dart';
+import 'package:clone_coding_karrot/screens/home_screen.dart';
+import 'package:clone_coding_karrot/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
